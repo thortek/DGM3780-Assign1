@@ -1,4 +1,4 @@
-# DGM 3780 Build Process [![Build Status](https://travis-ci.org/landonconover/DGM3780-Competency1.svg?branch=master)](https://travis-ci.org/landonconover/DGM3780-Competency1)
+# DGM 3780 Build Process 
 In DGM 3780 we will be using automated tests and bulild processes to check code.
 
 #Steps
