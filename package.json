@@ -1,0 +1,23 @@
+{
+  "name": "dgm3780-assign1",
+  "version": "1.0.0",
+  "description": "Assign 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landonconover/DGM3780-Competency1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UVU-DigitalMedia/DGM3780-Assign1/issues"
+  },
+  "homepage": "https://github.com/UVU-DigitalMedia/DGM3780-Assign1#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
