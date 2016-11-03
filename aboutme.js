@@ -5,4 +5,5 @@ exports.student = {
     'gender' : 'Male',
     'age' : 62,
     'interests' : ['Running', 'JavaScript', 'Cooking'],
-    'bio' : 'Native Utahn, Learned Advanced Math in Montana, Switched to Computer Technolgy, worked in three Industry sectors, teaching mathematics as the last sector of life'
+    'bio' : 'Native Utahn, Learned Advanced Math in Montana, Switched to Computer Technology, worked in three Industry sectors, teaching mathematics as the last sector of life'};
+
