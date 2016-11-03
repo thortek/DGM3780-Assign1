@@ -5,5 +5,5 @@ exports.student = {
     'gender' : 'Male',
     'age' : 31,
     'interests' : ['Disinterests', 'Starcraft2', 'Goute'],
-    'bio' : 'Frequently makes poor decisions.'
+    'bio' : 'Frequently makes poor decisions. Prone to random outbursts. Over-appreciated and under-whelming. Capable of grilling perfect steaks while pwning noobs with alarmingly precise timing.'
 }
