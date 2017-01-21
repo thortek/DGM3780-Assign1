@@ -4,7 +4,7 @@ var javascriptobject = {
     name: "Amren Miller",
     gender: "Male",
     age: 30,
-    myInterests: ["trumpet", "rap", "animation"],
+    interests: ["trumpet", "rap", "animation"],
 
     bio: "I'm just a regular guy who is trying to learn how to computer program. When I was\
 approximately 20 years old, I attended the University of Utah to play the trumpet in their jazz band.\
