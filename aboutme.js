@@ -1,10 +1,10 @@
 
 //Construct an object with the following properties: name(String), age(number), gender(String), bio(String, longer than 140 chars)
 var javascriptobject = {
-    name = "Amren Miller"
-    gender = "Male";
-    age = 30;
-    myInterests = ["trumpet", "rap", "animation"];
+    name: "Amren Miller";
+    gender: "Male";
+    age: 30;
+    myInterests: ["trumpet", "rap", "animation"];
 
     bio = "I'm just a regular guy who is trying to learn how to computer program. When I was\
 approximately 20 years old, I attended the University of Utah to play the trumpet in their jazz band.\
