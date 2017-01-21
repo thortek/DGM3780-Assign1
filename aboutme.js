@@ -1,6 +1,8 @@
 
+
+
 //Construct an object with the following properties: name(String), age(number), gender(String), bio(String, longer than 140 chars)
-var javascriptobject = {
+var student = {
     name: "Amren Miller",
     gender: "Male",
     age: 30,
