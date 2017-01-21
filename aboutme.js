@@ -11,7 +11,7 @@ approximately 20 years old, I attended the University of Utah to play the trumpe
 I haven't really completed any other higher or secondary education, but before I started this bootcamp, I worked at a\
 company called SmartSavers, where I was originally hired to develop an Android app.";
 
-}
+};
 
 
 
